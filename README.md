@@ -1,7 +1,7 @@
 ### Sword and Shield: 2 Player Battle Game 
 ---
 
-#### CS319 Object Oriented Software Engineering Spring'17
+#### CS319 Object Oriented Software Engineering Spring'18
 ##### Instructor: Uğur Doğrusöz
 ##### TA: Hasan Balcı
 
